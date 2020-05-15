@@ -1,0 +1,9 @@
+tags:
+  - variable assignment
+  - variables
+languages:
+  - ruby
+resources: 2
+
+
+parent_template: git@github.com:learn-co-curriculum/ruby-variable-assignment.git

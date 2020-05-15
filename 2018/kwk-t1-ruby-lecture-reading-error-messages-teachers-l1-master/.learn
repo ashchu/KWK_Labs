@@ -1,0 +1,11 @@
+tags:
+  - introduction
+  - error messages
+  - lecture
+languages:
+  - ruby
+type:
+  - video
+  - lab
+
+parent_template: git@github.com:learn-co-curriculum/ruby-lecture-reading-error-messages.git

@@ -1,0 +1,8 @@
+tags:
+  - variables
+  - arrays
+  - tictactoe
+languages:
+  - ruby
+resources: 0
+parent_template: git@github.com:learn-co-curriculum/ttt-2-board-rb.git

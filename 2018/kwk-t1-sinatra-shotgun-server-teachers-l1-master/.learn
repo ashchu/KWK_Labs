@@ -1,0 +1,9 @@
+tags:
+  - shotgun
+  - sinatra
+  - rackup
+languages:
+  - ruby
+resources: []
+
+parent_template: git@github.com:learn-co-curriculum/sinatra-shotgun-server.git

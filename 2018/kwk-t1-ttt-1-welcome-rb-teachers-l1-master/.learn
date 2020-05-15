@@ -1,0 +1,7 @@
+tags:
+  - puts
+  - tictactoe
+languages:
+  - ruby
+  
+parent_template: git@github.com:learn-co-curriculum/ttt-1-welcome-rb.git

@@ -1,0 +1,10 @@
+tags:
+  - introduction
+  - basics
+  - lecture
+languages:
+  - ruby
+type:
+  - video
+
+parent_template: git@github.com:learn-co-curriculum/ruby-lecture-intro-what-is-a-program.git
